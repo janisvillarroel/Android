@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiNegocio</string>
+    <string name="title">Mi Aplicación de negocios</string>
+    <string name="btn1">Servicios</string>
+    <string name="btn2">Portafolio</string>
+    <string name="btn3">Acerca de</string>
+    <string name="btn4">Contacto</string>
+    <string name="btn5">Redes Sociales</string>
+
+</resources>

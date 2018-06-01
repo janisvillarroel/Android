@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginFinal</string>
+    <string name="erroMail">Ingrese el email</string>
+    <string name="errorPass">Ingrese el password</string>
+</resources>
